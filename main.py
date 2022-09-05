@@ -4,9 +4,10 @@ import csv
 import numpy
 from datetime import datetime
 
-plt.figure(figsize=(35, 15), layout='tight')  # dpi=600) # , figsize=(15, 5))  # 1200
-# plt.rcParams["figure.figsize"] = [25, 15]
-# plt.rcParams["figure.autolayout"] = True
+# plt.figure(figsize=(35, 15), dpi=1200, layout='tight')  # dpi=600) # , figsize=(15, 5))  # 1200
+plt.rcParams["figure.figsize"] = [25, 15]
+plt.rcParams["figure.autolayout"] = True
+plt.rcParams["figure.dpi"] = 1200
 
 # For getting the column names of the data.
 file = open('KGSizeTrendWithDates_v2.csv', mode='r')
@@ -67,7 +68,7 @@ plt.plot(x_dates, p(x_date_int_list), linestyle='dashed')
 
 # For writing x-,y-axis and data point labels.
 plt.xticks(rotation=45)
-plt.xlabel('Year')
+plt.xlabel('Date')
 plt.ylabel('Number of Entities')
 plt.title('Knowledge Graph Sizes', fontsize=15)
 for index in range(len(x_dates)):
@@ -88,4 +89,5 @@ plt_size_legend = ax.legend(handles, citation_count_labels, loc="upper left", ti
 # spacing = 1
 # fig.subplots_adjust(right=spacing)
 plt.tight_layout()
-plt.show()
+plt.savefig("big_fig.png")
+# plt.show()
