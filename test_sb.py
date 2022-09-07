@@ -1,16 +1,12 @@
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
+# import libraries
 import csv
-import numpy
+
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 from datetime import datetime
-
-# UNCOMMENT BELOW if you want auto-scaled graph
-plt.figure(figsize=(25, 15), dpi=600)
-
-# UNCOMMENT BELOW if you want the broader graph
-# plt.rcParams["figure.figsize"] = [25, 15]
-# plt.rcParams["figure.autolayout"] = True
-# plt.rcParams["figure.dpi"] = 1200
+import matplotlib.dates as mdates
 
 # For getting the column names of the data.
 file = open('KGSizeTrendWithDates_v2.csv', mode='r')
@@ -61,38 +57,18 @@ plt.rc('legend', title_fontsize=8, fontsize=7, labelspacing=0.75, handlelength=2
 
 # For creating scatter plot for data points.
 fig, ax = plt.subplots()
-scatter = ax.scatter(x_dates, y_entities, s=relative_cc_list, facecolors='none', color='g', marker='o', label=kg_names)
-plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%d-%m-%y'))
+scatter = ax.scatter(x_date_int_list, y_entities, s=relative_cc_list, facecolors='none', color='g', marker='o', label=kg_names)
+# plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%d-%m-%y'))
 
-# For calculating and plotting the trend line.
-z = numpy.polyfit(x_date_int_list, y_entities, 1)
-p = numpy.poly1d(z)
-plt.plot(x_dates, p(x_date_int_list), linestyle='dashed')
+# For creating 90% confidence interval in visual graph.
+sns.regplot(x=x_date_int_list, y=y_entities, ci=90, color=None)
 
 # For writing x-,y-axis and data point labels.
-plt.xticks(rotation=45)
 plt.xlabel('Date')
 plt.ylabel('Number of Entities')
 plt.title('Knowledge Graph Sizes', fontsize=15)
 for index in range(len(x_dates)):
     ax.text(x_dates[index], y_entities[index], kg_names[index], size=7)
-
 plt.grid()
 
-# For creating a legend for every data point study with their citation counts
-handles, labels = scatter.legend_elements(prop="sizes", alpha=0.2)
-citation_count_labels = []
-for element in labels:
-    int_element = int(''.join(i for i in element if i.isdigit()))
-    temp_element = int((int_element / scaler) * citation_sum)
-    str_label = '$\\mathdefault{' + str(temp_element) + '}$'
-    citation_count_labels.append(str_label)
-plt_size_legend = ax.legend(handles, citation_count_labels, loc="upper left", title="Usage Count")
-
-plt.tight_layout()
-
-# UNCOMMENT BELOW if you want to save the figure
-# plt.savefig("fig_new.png")
-
-# UNCOMMENT BELOW if you want to show the figure in PyCharm
 plt.show()

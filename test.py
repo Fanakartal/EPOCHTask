@@ -14,3 +14,7 @@ p = numpy.poly1d(z)
 # Display the Trendline
 plt.plot(x, p(x))
 plt.show()
+
+# Change spacing in graph
+# spacing = 1
+# fig.subplots_adjust(right=spacing)
