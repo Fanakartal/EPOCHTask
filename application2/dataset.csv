@@ -1,0 +1,356 @@
+Id;System;Domain;Year;Citations;Count;Reference
+1;CICERO;Games;2022;4,00E+00;4;Human-level play in the game of Diplomacy by combining language models with strategic reasoning
+2;Rational DQN Average;Games;2021;3,00E+00;3;Recurrent Rational Networks
+3;GOAT;Games;2021;6,40E+01;64;Open-Ended Learning Leads to Generally Capable Agents
+4;EfficientZero;Games;2021;4,00E+01;40;Mastering Atari Games with Limited Data
+5;Player of Games;Games;2021;9,00E+00;9;Player of Games
+6;Agent57;Games;2020;3,45E+02;345;Agent57: Outperforming the Atari Human Benchmark
+7;CURL;Games;2020;2,90E+02;290;CURL: Contrastive Unsupervised Representations for Reinforcement Learning
+8;Go-explore;Games;2020;1,79E+02;179;First return, then explore
+9;Hanabi 4 player;Games;2019;2,29E+02;229;The Hanabi Challenge: A New Frontier for AI Research
+10;FTW;Games;2019;4,25E+02;425;Human-level performance in 3D multiplayer games with population-based reinforcement learning
+11;Pluribus;Games;2019;5,75E+02;575;Superhuman AI for multiplayer poker
+12;Hide and Seek;Games;2019;5,00E+02;500;Emergent Tool Use From Multi-Agent Autocurricula
+13;AlphaStar;Games;2019;1,04E+03;1040;Grandmaster level in StarCraft II using multi-agent reinforcement learning
+14;MuZero;Games;2019;4,12E+02;412;Mastering Atari Go Chess and Shogi by Planning with a Learned Model
+15;OpenAI Five;Games;2019;4,54E+02;454;Dota 2 with Large Scale Deep Reinforcement Learning
+16;OpenAI Five Rerun;Games;2019;1,00E+03;1000;Dota 2 with Large Scale Deep Reinforcement Learning
+17;IMPALA;Games;2018;6,75E+02;675;IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures
+18;Population-based DRL;Games;2018;4,34E+02;434;Human-level performance in first-person multiplayer games with population-based deep reinforcement learning
+19;MetaMimic;Games;2018;1,90E+01;19;One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL
+20;AlphaGo Master;Games;2017;5,81E+03;5810;Mastering the game of Go without human knowledge
+21;Libratus;Games;2017;9,70E+01;97;Libratus: The Superhuman AI for No-Limit Poker
+22;DeepStack;Games;2017;6,18E+02;618;DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker
+23;HRA;Games;2017;2,22E+02;222;Hybrid Reward Architecture for Reinforcement Learning
+24;NoisyNet-Dueling;Games;2017;4,80E+02;480;Noisy Networks for Exploration
+25;OpenAI TI7 DOTA 1v1;Games;2017;1,00E+03;1000;Dota 2 
+26;AlphaGo Zero;Games;2017;5,81E+03;5810;Mastering the game of Go without human knowledge
+27;AlphaZero;Games;2017;1,08E+03;1080;Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+28;AlphaGo Lee;Games;2016;1,08E+04;10800;Mastering the game of Go with deep neural networks and tree search
+29;A3C FF hs;Games;2016;5,28E+03;5280;Asynchronous Methods for Deep Reinforcement Learning
+30;DQN-2015;Games;2015;1,57E+04;15700;Human-level control through deep reinforcement learning
+31;AlphaGo Fan;Games;2015;5,18E+03;5180;Mastering the game of Go with deep neural networks and tree search
+32;Advantage Learning;Games;2015;1,04E+02;104;Increasing the Action Gap: New Operators for Reinforcement Learning
+33;HyperNEAT;Games;2014;1,95E+02;195;A Neuroevolution Approach to General Atari Game Playing
+34;SmooCT;Games;2014;1,60E+01;16;Self-Play Monte-Carlo Tree Search in Computer Poker
+35;DQN;Games;2013;6,68E+03;6680;Playing Atari with Deep Reinforcement Learning
+36;Bayesian Starcraft;Games;2011;8,60E+01;86;A Bayesian Model for RTS Units Control applied to StarCraft
+37;TD-Gammon;Games;1992;1,34E+03;1340;Practical Issues in Temporal Difference Learning
+38;Adaptive Broom Balancer;Games;1988;8,00E+01;80;An Adaptive “Broom Balancer” with Visual Inputs
+39;ASE+ACE;Games;1983;4,30E+03;4300;Neuronlike adaptive elements that can solve difficult learning control problems
+40;Bootstrap Adaptation;Games;1973;3,97E+02;397;Punish/Reward: Learning with a Critic in Adaptive Threshold Systems
+41;GLEE;Games;1968;5,90E+02;590;Boxes: An Experiment in Adaptive Control
+42;BOXES;Games;1968;5,90E+02;590;Boxes: An Experiment in Adaptive Control
+43;Samuel Neural Checkers II;Games;1967;7,47E+02;747;Some studies in machine learning using the game of checkers. Part II
+44;MENACE;Games;1963;4,60E+01;46;Experiments on the Mechanization of Game-Learning Part I. Characterization of the Model and its parameters
+45;Samuel Neural Checkers;Games;1959;4,15E+03;4150;Some studies in machine learning using the game of checkers
+46;data2vec (language);Language;2022;1,80E+02;180;Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language
+47;Primer;Language;2022;3,90E+01;39;Primer: Searching for Efficient Transformers for Language Modeling
+48;InstructGPT;Language;2022;1,49E+02;149;Training language models to follow instructions with human feedback
+49;AlphaCode;Language;2022;7,50E+01;75;Competition-Level Code Generation with AlphaCode
+50;RETRO-7B;Language;2022;5,90E+01;59;Improving language models by retrieving from trillions of tokens
+51;GPT-NeoX-20B;Language;2022;4,50E+01;45;Announcing GPT- NeoX- 20B
+52;LaMDA;Language;2022;;;LaMDA: Language Models for Dialog Applications
+53;DeepNet;Language;2022;;;DeepNet: Scaling Transformers to 1,000 Layers
+54;Statement Curriculum Learning;Language;2022;;;Formal Mathematics Statement Curriculum Learning
+55;Chinchilla;Language;2022;;;Training Compute-Optimal Large Language Models
+56;PaLM (540B);Language;2022;2,28E+02;228;PaLM: Scaling Language Modeling with Pathways
+57;Sparse all-MLP;Language;2022;0,00E+00;0;Efficient Language Modeling with Sparse all-MLP
+58;OPT-175B;Language;2022;;;OPT: Open Pre-trained Transformer Language Models
+59;Jurassic-X;Language;2022;;;MRKL Systems A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning
+60;UL2;Language;2022;1,90E+01;19;Unifying Language Learning Paradigms
+61;Minerva (540B);Language;2022;;;"Solving Quantitative Reasoning Problems with
+Language Models"
+62;NLLB;Language;2022;1,90E+01;19;No Language Left Behind: Scaling Human-Centered Machine Translation
+63;GLM-130B;Language;2022;;;GLM-130B: An open bilingual pre-trained model
+64;BLOOM;Language;2022;;;
+65;Galactica;Language;2022;;;Galactica: A Large Language Model for Science
+66;YaLM;Language;2022;;;
+67;AlexaTM 20B;Language;2022;;;AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model
+68;GPT-SW3;Language;2022;;;
+69;Switch;Language;2021;5,11E+02;511;Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
+70;Wu Dao - Wen Yuan;Language;2021;;;China's GPT-3? BAAI Introduces Superscale Intelligence Model 'Wu Dao 1.0'
+71;Generative BST;Language;2021;5,03E+02;503;Recipes for building an open-domain chatbot
+72;FLAN;Language;2021;2,40E+02;240;FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS
+73;GPT-Neo;Language;2021;;;GPT-Neo
+74;Megatron-LM (1T);Language;2021;1,08E+02;108;Efficient Large-Scale Language Model Training on GPU Clusters
+75;PLUG;Language;2021;;;
+76;PanGu-α;Language;2021;6,50E+01;65;PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation
+77;GPT-J-6B;Language;2021;;;GPT-J-6B: 6B JAX-Based Transformer
+78;HyperClova;Language;2021;;;Hyperclova
+79;DeBERTa;Language;2021;6,61E+02;661;DeBERTa: Decoding-enhanced BERT with Disentangled Attention
+80;ERNIE 3.0;Language;2021;1,00E+02;100;ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation
+81;Codex;Language;2021;3,01E+02;301;Evaluating Large Language Models Trained on Code
+82;HuBERT;Language;2021;4,58E+02;458;HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
+83;Jurassic-1-Jumbo;Language;2021;5,50E+01;55;Jurassic-1: Technical Details and Evaluation
+84;XLMR-XXL;Language;2021;1,80E+01;18;Larger-Scale Transformers for Multilingual Masked Language Modeling
+85;FLAN;Language;2021;2,40E+02;240;Finetuned Language Models Are Zero-Shot Learners
+86;Megatron-Turing NLG 530B;Language;2021;1,14E+02;114;Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, the World’s Largest and Most Powerful Generative Language Model
+87;Yuan 1.0;Language;2021;1,20E+01;12;Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning
+88;T0-XXL;Language;2021;2,43E+02;243;Multitask Prompted Training Enables Zero-Shot Task Generalization
+89;Japanese dialog transformers;Language;2021;3,10E+01;31;Empirical Analysis of Training Strategies of Transformer-based Japanese Chit-chat Systems
+90;Source 1.0;Language;2021;;;
+91;Gopher;Language;2021;1,76E+02;176;Scaling Language Models: Methods, Analysis & Insights from Training Gopher
+92;XGLM;Language;2021;1,20E+01;12;Few-shot Learning with Multilingual Language Models
+93;PCL-BAIDU Wenxin (ERNIE 3.0 Titan);Language;2021;1,10E+01;11;ERNIE 3.0 Titan: Exploring Larger-scale Knowledge Enhanced Pre-training for Language Understanding and Generation
+94;T0-XXL;Language;2021;;;
+95;PAGnol-XL;Language;2021;;;
+96;Meena;Language;2020;6,15E+02;615;Towards a Human-like Open-Domain Chatbot
+97;Theseus 6/768;Language;2020;1,23E+02;123;BERT-of-Theseus: Compressing BERT by Progressive Module Replacing
+98;ALBERT-xxlarge;Language;2020;2,18E+03;2180;ALBERT: A Lite BERT for Self-supervised Learning of Language Representations.
+99;Turing NLG;Language;2020;1,14E+02;114;Turing-NLG: A 17-billion-parameter language model by Microsoft
+100;ELECTRA;Language;2020;8,42E+02;842;Electra: pre-training text encoders as discriminators rather than generators
+101;MobileBERT;Language;2020;3,92E+02;392;MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices
+102;GPT-3 175B (davinci);Language;2020;1,53E+03;1530;Language models are Few- Shot Learners
+103;SqueezeBERT;Language;2020;6,20E+01;62;SqueezeBERT: What can computer vision teach NLP about efficient neural networks?
+104;GShard (dense);Language;2020;2,95E+02;295;GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding
+105;GShard (600B);Language;2020;2,95E+02;295;GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding
+106;ERNIE-GEN (large);Language;2020;9,20E+01;92;ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation
+107;KEPLER;Language;2020;2,56E+02;256;KEPLER: A Unified Model for Knowledge Embedding and Pre- trained Language Representation.
+108;CPM-Large;Language;2020;4,90E+01;49;CPM: A Large-scale Generative Chinese Pre-trained Language Model
+109;AraGPT2-Mega;Language;2020;2,40E+01;24;AraGPT2: Pre-Trained Transformer for Arabic Language Generation
+110;ELECTRA;Language;2020;;;ELECTRA: pre-training text encoders as discriminators rather than generators
+111;Transformer ELMo;Language;2019;3,08E+02;308;Dissecting Contextual Word Embeddings: Architecture and Representation
+112;MT-DNN;Language;2019;5,53E+02;553;Multi-Task Deep Neural Networks for Natural Language Understanding
+113;GPT-2;Language;2019;1,70E+03;1700;Language Models are Unsupervised Multitask Learners
+114;;Language;2019;1,41E+03;1410;SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
+115;Grover-Mega;Language;2019;5,43E+02;543;Defending Against Neural Fake News
+116;XLM;Language;2019;6,78E+02;678;Cross-lingual Language Model Pretraining
+117;XLNet;Language;2019;3,06E+03;3060;XLNet: Generalized Autoregressive Pretraining for Language Understanding
+118;RoBERTa;Language;2019;1,51E+03;1510;RoBERTa: A Robustly Optimized BERT Pretraining Approach
+119;Megatron-BERT;Language;2019;5,57E+02;557;Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
+120;Megatron-LM (Original, 8.3B);Language;2019;5,57E+02;557;Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
+121;ALBERT;Language;2019;1,66E+03;1660;ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+122;DistilBERT;Language;2019;8,95E+02;895;DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
+123;T5-11B;Language;2019;1,54E+03;1540;Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+124;T5-3B;Language;2019;1,54E+03;1540;Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+125;BART-large;Language;2019;1,01E+03;1010;BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+126;ULM-FiT;Language;2018;1,94E+03;1940;Universal Language Model Fine-tuning for Text Classification
+127;ELMo;Language;2018;7,48E+03;7480;Deep contextualized word representations
+128;Chinese - English translation;Language;2018;5,30E+02;530;Achieving Human Parity on Automatic Chinese to English News Translation
+129;GPT;Language;2018;2,26E+03;2260;Improving Language Understanding by Generative Pre-Training
+130;BERT-Large;Language;2018;2,38E+04;23800;BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+131;GPipe (Transformer);Language;2018;4,86E+02;486;GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
+132;MoE;Language;2017;6,87E+02;687;Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
+133;Transformer;Language;2017;2,52E+04;25200;Attention Is All You Need
+134;DMN;Language;2016;1,19E+03;1190;Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
+135;;Language;2016;3,09E+03;3090;Bag of Tricks for Efficient Text Classification
+136;;Language;2016;6,35E+03;6350;Enriching Word Vectors with Subword Information
+137;Part-of-sentence tagging model;Language;2016;4,13E+03;4130;Layer Normalization.
+138;Named Entity Recognition model;Language;2016;4,13E+03;4130;Layer Normalization
+139;GNMT;Language;2016;4,50E+03;4500;Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
+140;Constituency-Tree LSTM;Language;2015;2,62E+03;2620;Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks
+141;BPE;Language;2015;4,06E+03;4060;Neural Machine Translation of Rare Words with Subword Units
+142;GloVe (6B);Language;2014;2,25E+04;22500;GloVe: Global Vectors for Word Representation
+143;GloVe (32B);Language;2014;2,25E+04;22500;GloVe: Global Vectors for Word Representation
+144;DBNs;Language;2014;4,45E+02;445;Application of Deep Belief Networks for Natural Language Understanding
+145;GRUs;Language;2014;1,50E+04;15000;Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
+146;RNNsearch-50*;Language;2014;1,92E+04;19200;Neural Machine Translation by Jointly Learning to Align and Translate
+147;Seq2Seq LSTM;Language;2014;1,57E+04;15700;Sequence to Sequence Learning with Neural Networks
+148;;Language;2013;3,63E+03;3630;Linguistic Regularities in Continuous Space Word Representations
+149;Word2Vec (large);Language;2013;2,87E+04;28700;Distributed Representations of Words and Phrases and their Compositionality
+150;Word2Vec (small);Language;2013;2,87E+04;28700;Distributed Representations of Words and Phrases and their Compositionality
+151;;Language;2012;4,89E+02;489;Syntactic Annotations for the Google Books NGram Corpus
+152;MV-RNN;Language;2012;1,46E+03;1460;Semantic compositionality through recursive matrix-vector spaces
+153;;Language;2011;1,24E+03;1240;Extensions of recurrent neural network language model
+154;;Language;2011;3,16E+02;316;Unsupervised Part-of-Speech Tagging with Bilingual Graph-Based Projections
+155;;Language;2011;1,48E+03;1480;Semi-supervised recursive autoencoders for predicting sentiment distributions
+156;NLP from scratch;Language;2011;7,64E+03;7640;Natural Language Processing (Almost) from Scratch
+157;Word Representations;Language;2010;2,51E+03;2510;Word Representations: A Simple and General Method for Semi-Supervised Learning
+158;;Language;2010;2,27E+03;2270;Quantitative Analysis of Culture Using Millions of Digitized Books
+159;;Language;2009;7,87E+02;787;Recognizing Contextual Polarity: An Exploration of Features for Phrase-Level Sentiment Analysis
+160;;Language;2009;6,42E+03;6420;An Introduction to Latent Semantic Analysis
+161;;Language;2008;5,76E+03;5760;A unified architecture for natural language processing: Deep neural networks with multitask learning
+162;Stacked Semisuperviser Autoencoders;Language;2008;2,43E+02;243;Semisupervised learning of compact document representations with deep networks
+163;;Language;2007;6,10E+03;6100;Moses: Open Source Toolkit for Statistical Machine Translation
+164;λ-WASP;Language;2007;3,83E+02;383;Learning Synchronous Grammars for Semantic Parsing with Lambda Calculus
+165;Semantic Taxonomy Induction;Language;2006;5,71E+02;571;Semantic Taxonomy Induction from Heterogenous Evidence
+166;Hiero;Language;2005;1,49E+03;1490;A Hierarchical Phrase-Based Model for Statistical Machine Translation
+167;;Language;2004;4,75E+02;475;Finding Predominant Word Senses in Untagged Text
+168;LDA;Language;2003;3,87E+04;38700;Latent Dirichlet Allocation
+169;NPLM;Language;2003;7,63E+03;7630;A Neural Probabilistic Language Model
+170;Phrase-based translation;Language;2003;4,27E+03;4270;Statistical Phrase-Based Translation
+171;Thumbs Up?;Language;2002;1,07E+04;10700;Thumbs up? Sentiment Classification using Machine Learning Techniques
+172;;Language;2002;2,58E+03;2580;Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms
+173;;Language;2002;6,23E+02;623;A Phrase-Based, Joint Probability Model for Statistical Machine Translation
+174;;Language;2002;1,41E+03;1410;Discriminative Training and Maximum Entropy Models for Statistical Machine Translation
+175;;Language;2002;1,58E+04;15800;Bleu: a method for automatic evaluation of machine translation
+176;Immediate trihead;Language;2001;4,22E+02;422;Immediate-Head Parsing for Language Models
+177;;Language;2000;2,33E+03;2330;Automatic Labeling of Semantic Roles
+178;;Language;2000;1,32E+03;1320;Improved Statistical Alignment Models
+179;IBM Model 4;Language;1999;1,92E+03;1920;Statistical machine translation
+180;;Language;1997;9,54E+02;954;Statistical language modeling using the CMU-Cambridge toolkit
+181;HMM Word Alignment;Language;1996;1,10E+03;1100;HMM-Based Word Alignment in Statistical Translation
+182;;Language;1995;3,00E+03;3000;Unsupervised Word Sense Disambiguation Rivaling Supervised Methods
+183;;Language;1994;7,88E+02;788;Tagging English Text with a Probabilistic Model
+184;IBM-5;Language;1993;5,75E+03;5750;The Mathematics of Statistical Machine Translation: Parameter Estimation
+185;;Language;1991;1,72E+03;1720;Distributed representations, simple recurrent networks, and grammatical structure
+186;Learning past tenses;Language;1986;3,18E+02;318;Learning the past tenses of English verbs: Implicit rules or parallel distributed processing?
+187;;Language;1984;4,73E+03;4730;Language learnability and language development.
+188;;VIsion;2017;4,00E+03;4000;Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising
+189;DSN;VIsion;2015;1,94E+03;1940;Deeply-Supervised Nets
+190;data2vec (vision);Vision;2022;1,80E+02;180;Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language
+191;Imagen;Vision;2022;;;Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+192;Meta Pseudo Labels;Vision;2021;3,93E+02;393;Meta pseudo labels
+193;Transformer local-attention (NesT-B);Vision;2021;5,73E+03;5730;Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding
+194;ViT-G/14;Vision;2021;3,02E+02;302;Scaling Vision Transformers
+195;SEER;Vision;2021;1,38E+02;138;Self-supervised Pretraining of Visual Features in the Wild
+196;;Vision;2020;1,42E+03;1420; Random Erasing Data Augmentation 
+197;Once for All;Vision;2020;7,33E+02;733;Once for all: Train one network and specialize it for efficient deployment.
+198;EfficientDet;Vision;2020;7,06E+02;706;EfficientDet: Scalable and Efficient Object Detection
+199;ViT-H/14;Vision;2020;1,91E+03;1910;An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+200;ViT-Base/32;Vision;2020;7,29E+02;729;An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+201;ViT-Huge/14;Vision;2020;7,29E+02;729;An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+202;Decoupled weight decay regularization;Vision;2019;2,06E+03;2060;Decoupled weight decay regularization.
+203;ProxylessNAS;Vision;2019;9,96E+02;996;ProxylessNAS: Direct neural architecture search on target task and hardware
+204;;Vision;2019;1,99E+03;1990;Dual Attention Network for Scene Segmentation
+205;ResNet-50 Billion-scale;Vision;2019;1,70E+03;1700;Language Models are Unsupervised Multitask Learners
+206;ResNeXt-101 Billion-scale;Vision;2019;3,19E+02;319;Billion-scale semi-supervised learning for image classification
+207;EfficientNet-L2;Vision;2019;3,19E+03;3190;EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+208;MnasNet-A1 + SSDLite;Vision;2019;1,43E+03;1430;MnasNet: Platform-Aware Neural Architecture Search for Mobile
+209;MnasNet-A3;Vision;2019;1,43E+03;1430;MnasNet: Platform-Aware Neural Architecture Search for Mobile
+210;FixRes ResNeXt-101 WSL;Vision;2019;4,05E+02;405;Fixing the train-test resolution discrepancy
+211;ObjectNet;Vision;2019;2,39E+03;2390;Objectnet: A large-scale bias-controlled dataset for pushing the limits of object recognition models
+212;AlphaX-1;Vision;2019;7,20E+01;72;AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search
+213;Noisy Student (L2);Vision;2019;5,76E+02;576;Self-training with Noisy Student improves ImageNet classification
+214;;Vision;2019;1,96E+02;196;Unsupervised Learning of Probably Symmetric Deformable 3D Objects From Images in the Wild
+215;Big Transfer (BiT-L);Vision;2019;8,30E+01;83;Large scale learning of general visual representations for transfer
+216;Refined Part Pooling;Vision;2018;1,24E+03;1240;Beyond Part Models: Person Retrieval with Refined Part Pooling (and a Strong Convolutional Baseline)
+217;AmoebaNet-A (F=448);Vision;2018;1,71E+03;1710;Regularized Evolution for Image Classifier Architecture Search
+218;AmoebaNet-A (F=190);Vision;2018;1,43E+03;1430;Regularized Evolution for Image Classifier Architecture Search
+219;DeepLabV3+;Vision;2018;5,37E+03;5370;Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+220;;Vision;2018;2,74E+03;2740;Spectral Normalization for Generative Adversarial Networks
+221;;Vision;2018;1,78E+03;1780;Residual Dense Network for Image Super-Resolution
+222;YOLOv3;Vision;2018;7,71E+03;7710;YOLOv3: An Incremental Improvement
+223;ResNeXt-101 32x48d;Vision;2018;6,19E+02;619;Exploring the Limits of Weakly Supervised Pretraining
+224;MobileNetV2;Vision;2018;5,71E+03;5710;MobileNetV2: Inverted Residuals and Linear Bottlenecks
+225;ShuffleNet v2;Vision;2018;1,41E+03;1410;ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+226;;Vision;2018;1,80E+03;1800;Image Super-Resolution Using Very Deep Residual Channel Attention Networks
+227;ESRGAN;Vision;2018;1,50E+03;1500;ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
+228;GPipe (Amoeba);Vision;2018;4,86E+02;486;GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
+229;;Vision;2017;3,57E+03;3570;Prototypical Networks for Few-shot Learning
+230;Mask R-CNN;Vision;2017;1,50E+04;15000;Mask R-CNN
+231;;Vision;2017;6,04E+03;6040;Improved Training of Wasserstein GANs
+232;MobileNet;Vision;2017;9,19E+03;9190;MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+233;;Vision;2017;1,01E+04;10100;DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+234;;Vision;2017;7,18E+03;7180;Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+235;;Vision;2017;3,98E+03;3980;Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
+236;;Vision;2017;3,07E+03;3070;Enhanced Deep Residual Networks for Single Image Super-Resolution
+237;DeepLabV3;Vision;2017;3,90E+03;3900;Rethinking Atrous Convolution for Semantic Image Segmentation
+238;;Vision;2017;4,17E+03;4170;GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium
+239;ShuffleNet v1;Vision;2017;2,78E+03;2780;ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+240;NASNet-A;Vision;2017;3,10E+03;3100;Learning Transferable Architectures for Scalable Image Recognition
+241;;Vision;2017;6,07E+03;6070;Pyramid Scene Parsing Network
+242;JFT;Vision;2017;1,14E+03;1140;Revisiting Unreasonable Effectiveness of Data in Deep Learning Era.
+243;RetinaNet-R50;Vision;2017;8,42E+03;8420;Focal loss for dense object detection
+244;RetinaNet-R101;Vision;2017;8,42E+03;8420;Focal loss for dense object detection
+245;;Vision;2017;1,45E+03;1450;Improved Regularization of Convolutional Neural Networks with Cutout
+246;SENet (ImageNet);Vision;2017;7,94E+03;7940;Squeeze-and-Excitation Networks
+247;;Vision;2017;1,40E+03;1400;Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro
+248;CapsNet (MNIST);Vision;2017;2,74E+03;2740;Dynamic Routing Between Capsules
+249;CapsNet (MultiMNIST);Vision;2017;2,74E+03;2740;Dynamic Routing Between Capsules
+250;;Vision;2017;3,91E+03;3910;Progressive Growing of GANs for Improved Quality, Stability, and Variation
+251;;Vision;2017;1,99E+03;1990;In Defense of the Triplet Loss for Person Re-Identification
+252;PNAS-net;Vision;2017;1,15E+03;1150;Progressive Neural Architecture Search
+253;;Vision;2016;2,42E+03;2420;Convolutional Pose Machines
+254;Inceptionv4;Vision;2016;8,21E+03;8210;Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+255;Inception-ResNet-V2;Vision;2016;8,21E+03;8210;Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+256;SqueezeNet;Vision;2016;4,40E+03;4400;SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size
+257;;Vision;2016;1,18E+03;1180;Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections
+258;;Vision;2016;2,28E+03;2280;Convolutional Two-Stream Network Fusion for Video Action Recognition
+259;R-FCN;Vision;2016;4,49E+03;4490;R-fcn: Object detection via region-based fully convolutional networks.
+260;DenseNet-264;Vision;2016;1,78E+04;17800;Densely Connected Convolutional Networks
+261;;Vision;2016;3,40E+03;3400;Joint Face Detection and Alignment using Multitask cascaded convolutional networks
+262;Stacked hourglass network;Vision;2016;3,60E+03;3600;Stacked Hourglass Networks for Human Pose Estimation
+263;;Vision;2016;6,89E+03;6890;Identity Mappings in Deep Residual Networks
+264;;Vision;2016;2,62E+03;2620;Temporal Segment Networks: Towards Good Practices for Deep Action Recognition
+265;MS-CNN;Vision;2016;1,32E+03;1320;A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection
+266;Wide Residual Network;Vision;2016;4,52E+03;4520;Wide Residual Networks
+267;Xception;Vision;2016;5,84E+03;5840;Xception: Deep Learning with Depthwise Separable Convolutions
+268;NASv3 (CIFAR-10);Vision;2016;2,97E+03;2970;Neural Architecture Search with Reinforcement Learning
+269;;Vision;2016;1,97E+03;1970;Deeply-Recursive Convolutional Network for Image Super-Resolution
+270;ResNeXt-50;Vision;2016;4,80E+03;4800;Aggregated Residual Transformations for Deep Neural Networks
+271;PolyNet;Vision;2016;1,88E+02;188;PolyNet: A Pursuit of Structural Diversity in Very Deep Networks
+272;RefineNet;Vision;2016;2,06E+03;2060;RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+273;;Vision;2016;6,06E+03;6060;Improved Techniques for Training GANs
+274;;Vision;2016;3,54E+03;3540;Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs
+275;YOLOv2;Vision;2016;9,37E+03;9370;YOLO9000: Better, Faster, Stronger
+276;MSRA (C, PReLU);Vision;2015;1,41E+04;14100;Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+277;;Vision;2015;2,66E+03;2660;Conditional Random Fields as Recurrent Neural Networks
+278;Fast R-CNN;Vision;2015;1,58E+04;15800;Fast R-CNN
+279;;Vision;2015;2,26E+03;2260;Beyond Short Snippets: Deep Networks for Video Classification
+280;;Vision;2015;3,47E+03;3470;Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors
+281;Faster R-CNN;Vision;2015;2,30E+04;23000;Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+282;GoogLeNet / InceptionV1;Vision;2015;3,28E+04;32800;Going deeper with convolutions
+283;YOLO;Vision;2015;1,75E+04;17500;You Only Look Once: Unified, Real-Time Object Detection
+284;;Vision;2015;5,84E+03;5840;Multi-Scale Context Aggregation by Dilated Convolutions
+285;Inception v3;Vision;2015;1,47E+04;14700;Rethinking the inception architecture for computer vision.
+286;ResNet-152 (ImageNet);Vision;2015;8,58E+04;85800;Deep Residual Learning for Image Recognition
+287;ResNet-110 (CIFAR-10);Vision;2015;8,58E+04;85800;Deep Residual Learning for Image Recognition
+288;SPPNet;Vision;2014;7,41E+03;7410;Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+289;;Vision;2014;5,74E+03;5740;DeepFace: Closing the Gap to Human-Level Performance in Face Verification
+290;VGG16;Vision;2014;6,13E+04;61300;Very Deep Convolutional Networks for Large-Scale Image Recognition
+291;VGG19;Vision;2014;6,13E+04;61300;Very Deep Convolutional Networks for Large-Scale Image Recognition
+292;LRCN;Vision;2014;5,22E+03;5220;Long-term Recurrent Convolutional Networks for Visual Recognition and Description
+293;;Vision;2014;2,47E+04;24700;Fully Convolutional Networks for Semantic Segmentation
+294;;Vision;2014;4,01E+03;4010;Deep Learning Face Attributes in the Wild
+295;ADAM (CIFAR-10);Vision;2014;8,11E+04;81100;Adam: A Method for Stochastic Optimization
+296;DeepLab;Vision;2014;3,70E+03;3700;Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
+297;;Vision;2013;1,21E+03;1210;Zero-Shot Learning Through Cross-Modal Transfer
+298;Maxout Networks ;Vision;2013;2,58E+03;2580;Maxout Networks 
+299;;Vision;2013;5,59E+03;5590;Selective search for object recognition
+300;;Vision;2013;5,59E+03;5590;Selective search for object recognition
+301;Image Classification with the Fisher Vector: Theory and Practice;Vision;2013;1,71E+03;1710;Image Classification with the Fisher Vector: Theory and Practice
+302;Mitosis;Vision;2013;1,46E+03;1460;Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks
+303;R-CNN (T-net);Vision;2013;1,91E+04;19100;Rich feature hierarchies for accurate object detection and semantic segmentation
+304;Visualizing CNNs;Vision;2013;1,30E+04;13000;Visualizing and Understanding Convolutional Networks
+305;Image generation;Vision;2013;1,56E+04;15600;Auto-Encoding Variational Bayes
+306;;Vision;2013;5,15E+03;5150;OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
+307;MCDNN (MNIST);Vision;2012;4,83E+03;4830;Multi-column Deep Neural Networks for Image Classification
+308;Dropout (MNIST);Vision;2012;6,68E+03;6680;Improving neural networks by preventing co-adaptation of feature detectors
+309;Dropout (CIFAR);Vision;2012;6,68E+03;6680;Improving neural networks by preventing co-adaptation of feature detectors
+310;Dropout (ImageNet);Vision;2012;6,68E+03;6680;Improving neural networks by preventing co-adaptation of feature detectors
+311;AlexNet;Vision;2012;8,51E+04;85100;ImageNet Classification with Deep Convolutional Neural Networks
+312;Domain Adaptation;Vision;2011;1,06E+03;1060;Domain Adaptation for Object Recognition: An Unsupervised Approach
+313;6-layer MLP (MNIST);Vision;2010;1,26E+03;1260;Deep Big Simple Neural Nets Excel on Handwritten Digit Recognition
+314;Feedforward NN;Vision;2010;1,33E+04;13300;Understanding the difficulty of training deep feedforward neural networks
+315;;Vision;2010;1,31E+03;1310;Learning mid-level features for recognition
+316;Deconvolutional Network;Vision;2010;1,52E+03;1520;Deconvolutional Networks
+317;ReLU (NORB);Vision;2010;1,40E+04;14000;Rectified linear units improve restricted boltzmann machines
+318;ReLU (LFW);Vision;2010;1,40E+04;14000;Rectified linear units improve restricted boltzmann machines
+319;;Vision;2010;3,06E+03;3060;Improving the Fisher Kernel for Large-Scale Image Classification
+320;;Vision;2008;3,09E+03;3090;A discriminatively trained, multiscale, deformable part model
+321;;Vision;2008;1,24E+02;124;Simple method for high-performance digit recognition based on sparse coding
+322;;Vision;2007;2,87E+02;287;A Novel Approach to On-Line Handwriting Recognition Based on Bidirectional Long Short-Term Memory Networks
+323;BLSTM;Vision;2007;3,41E+02;341;Unconstrained online handwriting recognition with recurrent neural networks
+324;FAST;Vision;2006;5,42E+03;5420;Machine Learning for High-Speed Corner Detection
+325;;Vision;2006;9,81E+03;9810;Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
+326;DrLIM;Vision;2006;2,69E+03;2690;Dimensionality Reduction by Learning an Invariant Mapping
+327;DImensionality Reduction;Vision;2006;1,57E+04;15700;Reducing the dimensionality of data with neural networks.
+328;Deep Belief Nets;Vision;2006;1,61E+04;16100;A fast learning algorithm for deep belief nets
+329;;Vision;2006;1,60E+03;1600;Efficient Learning of Sparse Representations with an Energy-Based Model.
+330;;Vision;2005;3,05E+03;3050;Learning a similarity metric discriminatively, with application to face verification
+331;;Vision;2005;3,66E+04;36600;Histograms of oriented gradients for human detection
+332;LIRA;Vision;2004;1,88E+02;188;Improved method of handwritten digit recognition tested on MNIST database
+333;;Vision;2003;9,49E+02;949;Unsupervised Learning of Models for Recognition
+334;Unsupervised Scale-Invariant Learning;Vision;2003;2,97E+03;2970;Object Class Recognition by Unsupervised Scale-Invariant Learning
+335;CNN Best Practices;Vision;2003;3,07E+03;3070;Best practices for convolutional neural networks applied to visual document analysis
+336;Decision tree (classification);Vision;2001;2,34E+04;23400;Rapid object detection using a boosted cascade of simple features
+337;;Vision;1999;1,73E+03;1730;Large Margin Classification Using the Perceptron Algorithm
+338;;Vision;1998;6,02E+02;602;Probabilistic modeling of local appearance and spatial relationships for object recognition
+339;LeNet-5;Vision;1998;3,86E+04;38600;Gradient-based Learning Applied to Document Recognition
+340;;Vision;1997;3,85E+03;3850;Training Support Vector Machines: An Application to Face Detection
+341;System 11;Vision;1996;6,01E+03;6010;Neural Network-Based Face Detection
+342;Zip CNN;Vision;1989;9,05E+03;9050;Backpropagation applied to handwritten zip code recognition
+343;;Vision;1988;1,91E+04;19100;A Combined Corner and Edge Detector
+344;;Vision;1987;7,59E+03;7590;Recognition-by-components: A theory of human image understanding
+345;;Vision;1986;3,79E+04;37900;A Computational Approach To Edge Detection
+346;Neocognitron;Vision;1980;5,78E+03;5780;Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position
+347;;Vision;1979;9,81E+02;981;The internal representation of solid shape with respect to vision
+348;Naive Bayes;Vision;1974;2,31E+04;23100;Pattern Classification and Scene Analysis
+349;ADALINE;Vision;1960;6,33E+03;6330;Adaptive switching circuits
+350;Pattern recognition and reading by machine;Vision;1959;5,87E+02;587;Pattern recognition and reading by machine
+351;Perceptron Mark I;Vision;1957;1,61E+03;1610;The Perceptron—a perceiving and recognizing automaton
+352;;Vision;1956;8,40E+01;84;Conditional probability machines
+353;Self Organizing System;Vision;1955;9,30E+01;93;Generalization of pattern recognition in a self-organizing system
+354;;Vision;1955;2,90E+02;290;Pattern recognition and learning
